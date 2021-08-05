@@ -9,3 +9,7 @@ body {
 .bibbase_amazon {
     display: none;
 }
+
+.bibbase_group {
+    background-color: #ABC6DD;
+}
