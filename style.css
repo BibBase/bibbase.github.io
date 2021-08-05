@@ -1,6 +1,10 @@
+* {
+ font-size: 100%;
+ font-family: EB Garamond;
+}
+
 body {
     padding: 1rem;
-    font-family: EB Garamond;
 }
 
 .spacer {
