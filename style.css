@@ -3,6 +3,10 @@
  font-family: EB Garamond;
 }
 
+icon {
+    width: 10%;
+}
+
 body {
     padding: 1rem;
 }
