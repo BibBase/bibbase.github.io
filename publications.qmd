@@ -1,0 +1,6 @@
+---
+title: "My Publications"
+---
+
+
+<script src="https://bibbase.org/show?bib=https://iuryt.github.io/pubs.bib&jsonp=1&theme=dividers"></script>

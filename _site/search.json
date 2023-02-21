@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nFeb 20, 2023\n\n\nIury Simoes-Sousa\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iury Simoes-Sousa",
+    "section": "",
+    "text": "My name is Iury T. Simoes-Sousa (pt-br: Iury Tércio Simões de Sousa). My name is pronounced as the Russian yuri (YOO-ree). I am an oceanographer and computational scientist.\nI was born in Fortaleza in Northeast Brazil, but I currently live in New Bedford. I am a last-year Ph.D. candidate in Computational Science and Engineering at University of Massachusetts Dartmouth, where I apply different data analysis methods and modeling to investigate ocean and atmosphere dynamics. Check my full list of published papers on the link at the top.\nMy main scientific interests are air-sea coupling and interaction, biophysical processes, and the transfer of energy between motions on different spatial and temporal scales.\nIn the free time, I love playing accordion, dancing Forró, studying history and hiking. I am also hemophilic and I’m passionate about promoting understanding and raising awareness around rare genetic disorders. By sharing my personal experience, I hope to inspire others to embrace their unique identities, build resilience, and advocate for positive change."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Trying Quarto",
+    "section": "",
+    "text": "I plan to post here my thoughts about Science, Technology and Music."
+  }
+]

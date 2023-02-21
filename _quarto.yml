@@ -1,0 +1,27 @@
+project:
+  type: website
+  preview:
+    port: 4200
+    browser: false
+website:
+  title: "iuryt" 
+  site-url: https://iuryt.github.io
+  description: "This is iury's personal Blog."
+  navbar:
+    right:
+      - text: Publications
+        href: publications.qmd
+      - text: Blog
+        href: blog.qmd 
+      - icon: github
+        href: https://github.com/iuryt
+      - icon: twitter
+        href: https://twitter.com/iurytss
+  google-analytics: <Insert your ID here>
+  cookie-consent: true
+
+
+format:
+  html:
+    theme: minty
+    mainfont: serif

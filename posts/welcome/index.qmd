@@ -1,0 +1,12 @@
+---
+title: "Trying Quarto"
+author: "Iury Simoes-Sousa"
+date: "2023-02-20"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](https://quarto.org/quarto.png)
+
+I plan to post here my thoughts about Science, Technology and Music.
